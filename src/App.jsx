@@ -1,4 +1,5 @@
 import About from "./components/About";
+import Contact from "./components/Contact";
 import Hero from "./components/Hero";
 import Marquee from "./components/Marquee";
 import Navbar from "./components/Navbar";
@@ -14,6 +15,7 @@ export default function App() {
       <Projects/>
       <About/>
       <Work/>
+      <Contact/>
     </main>
   )
 }
