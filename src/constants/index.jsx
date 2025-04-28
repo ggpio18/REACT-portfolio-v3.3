@@ -148,6 +148,6 @@ export const SOCIAL_MEDIA_LINKS = [
 
 export const CONTACT = {
   text: "I am always excited to collaborate on new and challenging projects. Whether you have a specific project in mind or just want to explore potential opportunities, Id love to hear from you. Lets combine our skills and expertise to create something amazing. Feel free to reach out to discuss how we can work together to achieve your goals.",
-  email: "hi@benson.langford.me",
+  email: "name@gmail.com",
   phone: "+(221 - 7654567892)",
 };
